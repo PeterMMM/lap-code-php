@@ -4,7 +4,7 @@ const PASS_GRADE = 70;
 const SUBJECTS = [
     "Math" => 80,
     "Science" => 75,
-    "English" => 85,
+    "English" => 61,
     "History" => 70,
     "Art" => 90
 ];
